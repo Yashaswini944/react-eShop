@@ -24,6 +24,7 @@ A modern, professional e-commerce application built with React, Redux Toolkit, a
 - **API**: Fake Store API
 
 ## 📁 Project Structure
+```text
 react-eshop/
 ├── src/
 │   ├── components/
@@ -48,7 +49,6 @@ react-eshop/
 ├── package.json
 ├── vite.config.js
 └── README.md
-
 
 ## 🚀 Getting Started
 
